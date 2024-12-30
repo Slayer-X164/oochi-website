@@ -477,8 +477,17 @@ nav{
     .main7_box2_innerbox a{
         font-size: 4vw;
     }
+    .main7_box1{
+        width: 53%;
+    height: auto;
+    }
     .main7_box1 h1{
-        font-size: 7vw;
+        font-size: 12vw;
+
+    }
+    .main7_box2 h1{
+        font-size: 11vw;
+        padding-bottom: 13vw;
     }
     .main7_box3{
         padding-top: 9vw;
