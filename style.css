@@ -20,7 +20,6 @@ body,html{
 }
 .main{
     width: 100%;
-    height: 100vh;
     padding: 0 1vw;
 }
 nav{
@@ -393,6 +392,7 @@ nav{
 }
 
 @media (max-width:1024px){
+
     nav .links{
         display: none;
     }
