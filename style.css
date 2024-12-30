@@ -400,7 +400,7 @@ nav{
         justify-content: center;
     }
 }
-@media (max-width:425px){
+@media (max-width:570px){
     nav {
         padding: 5vw 3vw;
     }
